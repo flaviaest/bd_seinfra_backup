@@ -1,2 +1,0 @@
-SELECT * FROM "Usuario"
-ORDER BY id ASC 
